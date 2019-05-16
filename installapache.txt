@@ -1,4 +1,4 @@
-nagaraju raju hhdhfhdgfhgdhfghdg
+changes are done nagaraju raju hhdhfhdgfhgdhfghdg
 kdhfjdhfdhfjddkfjkjdfkd
 fjdkjfhdkf
 jfhfjef
@@ -17,7 +17,7 @@ for centos
 Install Apache:
 First, clean-up yum:
 #sudo yum clean all
-As a matter of best practice we’ll update our packages:
+As a matter of best practice weâ€™ll update our packages:
 #sudo yum -y update
 Installing Apache is as simple as running just one command:
 #sudo yum -y install httpd
